@@ -1,10 +1,10 @@
-## 🚀 Conversor de Moedas Java (API ExchangeRate-API)
+## Conversor de Moedas Java (API ExchangeRate-API)
 
 Este projeto implementa um conversor de moedas simples via console, utilizando a linguagem Java, a biblioteca **Gson** para processamento JSON e a **ExchangeRate-API** para obter as taxas de câmbio em tempo real.
 
 ----
 
-## 🛠️ Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto é composto por duas classes principais:
 
@@ -20,7 +20,7 @@ O projeto é composto por duas classes principais:
 
 -----
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 O programa permite realizar conversões entre Dólar Americano (**USD**) e as seguintes moedas latino-americanas, conforme especificado no desafio:
 
@@ -36,7 +36,7 @@ A opção **6** é um exemplo de conversão inversa ou entre moedas não baseada
 
 -----
 
-## ▶️ Como Executar
+## Como Executar
 
 1.  Certifique-se de que a API Key foi configurada corretamente.
 2.  Compile e execute a classe principal **`ConversorDeMoedas.java`**.
